@@ -1,0 +1,5 @@
+.idea/
+.vscode/
+_run.ps1
+*.log
+*.bak
